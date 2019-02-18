@@ -10,3 +10,5 @@
 1. 경매 사이트
 
 ![Alt text](/Project_Pictures/Main_page.png)
+![Alt text](/Project_Pictures/Item_page.png)
+
